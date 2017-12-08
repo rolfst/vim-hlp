@@ -1,0 +1,33 @@
+*hlp.txt*   For nvim last change: 2017 Dec 8
+*hlp*
+
+Cheat sheet for spacevim
+
+===============================================================================
+CONTENTS
+
+    1. Normal mode.........................................|hlp-normal|
+    2. Visual mode.........................................|hlp-visual|
+    3. Insert mode.........................................|hlp-insert|
+
+
+===============================================================================
+1. Normal mode                                              *hlp-normal*
+
+    - <space> jj<char> : jumps to character 
+    - <space> sap : searches in directory and subdirectories
+    - <space> saP : searches for current word in directory and subdirectories
+    - ]] : jumps to next section
+    - <C-o> : jump to previous location in jump list
+
+
+
+===============================================================================
+2. Visual mode                                              *hlp-visual*
+
+
+
+
+
+===============================================================================
+3. Insert mode                                              *hlp-insert*
